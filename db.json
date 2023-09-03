@@ -1,0 +1,19 @@
+{
+  "musics": [
+    {
+      "author": "Zé Vaqueiro",
+      "text": "Volta cmg bb",
+      "id": 1
+    },
+    {
+      "author": "Gustavo Lima",
+      "text": "Ficha Limpa",
+      "id": 2
+    },
+    {
+      "author": "Mc Ryan - Sp",
+      "text": "Sereia me Perdoa",
+      "id": 3
+    }
+  ]
+}
