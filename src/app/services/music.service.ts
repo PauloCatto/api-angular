@@ -18,14 +18,14 @@ export class MusicService {
   }
 
   cadastrarMusicas(musica: MusicCadastrar) {
-    return this.httpClient.post<Music>(this.url, musica)
+    return this.httpClient.post<Music>(this.url, musica);
   }
 
   editarMusica(musica: Music) {
-    return this.httpClient.put<Music>(`${this.url}/${musica.id}`, musica)
+    return this.httpClient.put<Music>(`${this.url}/${musica.id}`, musica);
   }
 
   remover(id: number) {
-    return this.httpClient.delete<void>(`${this.url}/${id}`)
+    return this.httpClient.delete<void>(`${this.url}/${id}`);
   }
 }

@@ -1,19 +1,14 @@
 {
   "musics": [
     {
-      "author": "Zé Vaqueiro",
-      "text": "Volta cmg bb",
+      "author": "John Lennon",
+      "text": "Imagine",
       "id": 1
     },
     {
-      "author": "Gustavo Lima",
-      "text": "Ficha Limpa",
+      "author": "Marvin Gaye",
+      "text": "O que está acontecendo",
       "id": 2
-    },
-    {
-      "author": "Mc Ryan - Sp",
-      "text": "Sereia me Perdoa",
-      "id": 3
     }
   ]
 }
